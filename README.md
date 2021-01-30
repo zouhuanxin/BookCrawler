@@ -6,24 +6,25 @@ ip地址
 ```
  
  #### 笔趣阁(https://m.bqkan.com/)
+ 
  1. 首页 
     ```
-    /getHome
+    ip+/getHome
     ```
  2. 小说分类
    ```
-   /getTypes?url=/sort/1_1/
+   ip+/getTypes?url=/sort/1_1/
    ```  
  3. 小说内容
    ```
-   /getContent?url=/0/790/36873824.html
+   ip+/getContent?url=/0/790/36873824.html
    ```
  4. 查询
    ```
-   /Search?s=2758772450457967865&ie=gbk&siteid=biqukan.com&q=万古神帝
+   ip+/Search?s=2758772450457967865&ie=gbk&siteid=biqukan.com&q=万古神帝
    ```
  5. 小说详情和目录
    ```
-   /getAriticle?url=/1/136/
+   ip+/getAriticle?url=/1/136/
    ```
 
