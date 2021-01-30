@@ -8,10 +8,13 @@ ip地址
  #### 笔趣阁(https://m.bqkan.com/)
  
  1. 首页 
- 
     ```
     ip+/getHome
     ```
+     1. 首页
+   ```
+   ip+/getHome
+   ```  
  2. 小说分类
    ```
    ip+/getTypes?url=/sort/1_1/
