@@ -1,8 +1,8 @@
 # BookCrawler
-小说api，提供小说相关api接口，目前支持笔趣阁(https://m.bqkan.com/)。
+小说api，提供小说相关api接口，目前支持笔趣阁(https://m.bqkan.com)。
 
 ```
-ip地址:http://49.234.123.245:8082
+ip地址:http://81.70.179.4:8082
 ```
  
  #### 笔趣阁(https://m.bqkan.com/)
